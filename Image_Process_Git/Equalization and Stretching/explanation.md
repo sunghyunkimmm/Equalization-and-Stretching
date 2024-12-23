@@ -58,7 +58,7 @@ Original image
 ![image](https://github.com/user-attachments/assets/f2fc69bd-37b5-4586-a0e3-5d8aa1a10374)
 
 
-Strethced_image
+Stretched_image
 ![image](https://github.com/user-attachments/assets/82d9dce0-6f73-4ab9-b1e1-98b90c2145e2)
 
 
